@@ -51,9 +51,12 @@ digraph G {
   "SoundCloud"  -> "Tumblr";
   "SoundCloud"  -> "Twitter";
   "Spotify"     -> "Facebook";
+  "Square";
   "Tumblr"      -> "Facebook";
   "Tumblr"      -> "Twitter";
   "Twitter"     -> "Facebook";
+  "Uber"        -> "Facebook";
+  "Uber"        -> "Spotify";
   "Vimeo"       -> "Dropbox";
   "Vimeo"       -> "Facebook";
   "Vimeo"       -> "Google";
@@ -64,6 +67,4 @@ digraph G {
   "Vine"        -> "Tumblr";
   "Vine"        -> "Twitter";
   "WhatsApp"    -> "Facebook";
-  "Uber"        -> "Facebook";
-  "Uber"        -> "Spotify";
 }
