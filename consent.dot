@@ -1,4 +1,7 @@
 digraph G {
+  overlap=false
+  splines=true
+  
   "Airbnb"      -> "Facebook";
   "Airbnb"      -> "Google";
   "Airbnb"      -> "LinkedIn";
@@ -13,7 +16,7 @@ digraph G {
   "Dropbox"     -> "Google";
   "Dropbox"     -> "Twitter";
   "Dropbox"     -> "Yahoo";
-  "Facebook"    -> "Twitter";
+  "Facebook"    -> "Twitter"
   "Foursquare"  -> "Facebook";
   "Foursquare"  -> "Twitter";
   "Instagram"   -> "Facebook";
