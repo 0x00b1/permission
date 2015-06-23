@@ -19,6 +19,7 @@ digraph G {
   "Facebook"    -> "Twitter"
   "Foursquare"  -> "Facebook";
   "Foursquare"  -> "Twitter";
+  "GitHub";
   "Instagram"   -> "Facebook";
   "Instagram"   -> "Foursquare";
   "Instagram"   -> "Mixi";
