@@ -27,6 +27,7 @@ digraph G {
   "Instagram"   -> "Twitter";
   "Instagram"   -> "VK";
   "Instagram"   -> "Yahoo";
+  "Last.fm"     -> "Facebook"
   "LinkedIn"    -> "Twitter";
   "Medium"      -> "Facebook";
   "Medium"      -> "Twitter";
