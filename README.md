@@ -1,1 +1,3 @@
-# consent
+# Consent
+
+Authorizations between popular applications
