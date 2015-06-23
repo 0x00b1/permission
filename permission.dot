@@ -1,7 +1,7 @@
 digraph G {
   overlap=false
   splines=true
-  
+
   "Airbnb"      -> "Facebook";
   "Airbnb"      -> "Google";
   "Airbnb"      -> "LinkedIn";
@@ -56,6 +56,7 @@ digraph G {
   "SoundCloud"  -> "Tumblr";
   "SoundCloud"  -> "Twitter";
   "Spotify"     -> "Facebook";
+  "Spotify"     -> "Last.fm";
   "Square";
   "Stripe";
   "Tumblr"      -> "Facebook";
