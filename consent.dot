@@ -64,4 +64,6 @@ digraph G {
   "Vine"        -> "Tumblr";
   "Vine"        -> "Twitter";
   "WhatsApp"    -> "Facebook";
+  "Uber"        -> "Facebook";
+  "Uber"        -> "Spotify";
 }
