@@ -79,4 +79,10 @@ digraph G {
   "Vine"        -> "Tumblr";
   "Vine"        -> "Twitter";
   "WhatsApp"    -> "Facebook";
+  "Yelp"        -> "Aol.";
+  "Yelp"        -> "Facebook";
+  "Yelp"        -> "Google";
+  "Yelp"        -> "Microsoft";
+  "Yelp"        -> "Twitter";
+  "Yelp"        -> "Yahoo";
 }
