@@ -41,6 +41,7 @@ digraph G {
   "Medium"      -> "Twitter";
   "Meerkat"     -> "Facebook";
   "Meerkat"     -> "Twitter";
+  "Netflix"     -> "Facebook";
   "Periscope"   -> "Twitter";
   "Pinboard"    -> "Twitter";
   "Pinterest"   -> "Facebook";
