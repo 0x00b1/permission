@@ -16,6 +16,7 @@ digraph G {
   "Dropbox"     -> "Google";
   "Dropbox"     -> "Twitter";
   "Dropbox"     -> "Yahoo";
+  "Ello";
   "Facebook"    -> "Twitter"
   "Foursquare"  -> "Facebook";
   "Foursquare"  -> "Twitter";
