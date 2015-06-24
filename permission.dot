@@ -68,6 +68,8 @@ digraph G {
   "Sina Weibo"         -> "Facebook";
   "Sina Weibo"         -> "Qihoo";
   "Sina Weibo"         -> "QQ";
+  "Skype"              -> "Facebook";
+  "Skype"              -> "Microsoft";
   "Slack";
   "Snapchat";
   "SoundCloud"         -> "Facebook";
