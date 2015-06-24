@@ -5,6 +5,8 @@ digraph G {
   "Airbnb"      -> "Facebook";
   "Airbnb"      -> "Google";
   "Airbnb"      -> "LinkedIn";
+  "Amazon"      -> "Facebook";
+  "Amazon"      -> "Twitter";
   "AngelList"   -> "Facebook";
   "AngelList"   -> "LinkedIn";
   "AngelList"   -> "Twitter";
