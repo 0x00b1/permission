@@ -77,6 +77,7 @@ digraph G {
   "Spotify"            -> "Last.fm";
   "Square";
   "Stripe";
+  "Tencent Weibo"      -> "QQ";
   "The New York Times" -> "Facebook";
   "The New York Times" -> "Google";
   "Tumblr"             -> "Facebook";
