@@ -21,6 +21,9 @@ digraph G {
   "eBay"               -> "PayPal";
   "Ello";
   "ESPN"               -> "Facebook";
+  "Etsy"               -> "Facebook";
+  "Etsy"               -> "Google";
+  "Etsy"               -> "Twitter";
   "Facebook"           -> "Twitter"
   "Foursquare"         -> "Facebook";
   "Foursquare"         -> "Twitter";
